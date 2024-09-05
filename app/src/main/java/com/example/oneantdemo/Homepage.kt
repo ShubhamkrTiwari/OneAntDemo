@@ -14,10 +14,6 @@ class Homepage : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_homepage)
-        Handler(Looper.getMainLooper()).postDelayed({
-            val intent = Intent(this,Onboarding::class.java)
-            startActivity(intent)
-            finish()
-        },3000)
+
     }
 }
