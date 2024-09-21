@@ -6,7 +6,7 @@
     android:background="@drawable/bgfitness"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Onboarding">
+    tools:context="com.example.oneantdemo.Onboarding">
 
     <Button
         android:id="@+id/button"
