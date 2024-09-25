@@ -58,10 +58,10 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="420dp"
-        android:layout_height="54dp"
-        android:text="Reach Out"
+        android:layout_width="396dp"
+        android:layout_height="53dp"
         android:backgroundTint="@color/black"
+        android:text="Reach Out"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.555"
@@ -71,8 +71,8 @@
 
     <ImageView
         android:id="@+id/imageView12"
-        android:layout_width="251dp"
-        android:layout_height="73dp"
+        android:layout_width="230dp"
+        android:layout_height="54dp"
         app:layout_constraintBottom_toBottomOf="@+id/button4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
