@@ -58,7 +58,7 @@
         app:srcCompat="@drawable/groceriesservices" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/reachout"
         android:layout_width="396dp"
         android:layout_height="53dp"
         android:backgroundTint="@color/black"
@@ -74,7 +74,6 @@
         android:id="@+id/imageView12"
         android:layout_width="230dp"
         android:layout_height="54dp"
-        app:layout_constraintBottom_toBottomOf="@+id/button4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
