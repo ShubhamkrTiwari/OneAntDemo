@@ -59,8 +59,8 @@
 
     <Button
         android:id="@+id/reachout"
-        android:layout_width="396dp"
-        android:layout_height="53dp"
+        android:layout_width="353dp"
+        android:layout_height="54dp"
         android:backgroundTint="#F80371"
         android:text="Reach Out"
         app:cornerRadius="15dp"
