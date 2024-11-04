@@ -63,6 +63,7 @@
         android:layout_height="53dp"
         android:backgroundTint="#F80371"
         android:text="Reach Out"
+        app:cornerRadius="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.555"
