@@ -10,8 +10,8 @@
 
     <Button
         android:id="@+id/getstart"
-        android:layout_width="375dp"
-        android:layout_height="56dp"
+        android:layout_width="286dp"
+        android:layout_height="60dp"
         android:backgroundTint="#0091EA"
         android:text="GET STARTED"
         android:textColor="@color/white"
