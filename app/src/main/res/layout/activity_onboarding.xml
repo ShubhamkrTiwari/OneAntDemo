@@ -12,7 +12,7 @@
         android:id="@+id/getstart"
         android:layout_width="317dp"
         android:layout_height="63dp"
-        android:backgroundTint="#304FFE"
+        android:backgroundTint="#0091EA"
         android:text="GET STARTED"
         android:textColor="@color/white"
         android:textStyle="bold"
